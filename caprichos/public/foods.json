@@ -1,0 +1,35 @@
+{
+    "light":[
+        {"name":"Hamburguesa clásica", "description":"Pollo / Res", "price": 160},
+        {"name":"Hamburguesa doble", "description":"Pollo / Res", "price": 220},
+        {"name":"Hamburguesa crispy", "description":"Pollo", "price": 200},
+        {"name":"Hamburguesa en salsa jalapeña", "description":"Pollo / Res", "price": 180},
+        {"name":"Hamburguesa en sansa de hongos", "description":"Pollo / Res", "price": 180},
+        {"name":"Hamburguesa en sansa BBQ", "description":"Pollo / Res", "price": 180},
+        {"name":"Burrito de pollo", "description":"Pollo", "price": 180},
+        {"name":"Wrap", "description":"Pollo / Res", "price": 180}
+    ],
+    "saucers":[
+        {"name":"Filete en salsa jalapeña", "description":"Pollo / Res || Arroz, papas y ensalada", "price": 240},
+        {"name":"Filete en salsa de hongos", "description":"Pollo / Res || Arroz, papas y ensalada", "price": 240},
+        {"name":"Fajitas empanizadas", "description":"Incluye arroz, papas y ensalada", "price": 240},
+        {"name":"Filete de pollo a la plancha", "description":"Incluye arroz, papas y ensalada", "price": 200},
+        {"name":"New York steak", "description":"Incluye arroz, papas y ensalada", "price": 350},
+        {"name":"Alitas de pollo empanizadas", "description":"Salsas: BBQ, ranch, agridulce, picante o chipotle", "price": 240},
+        {"name":"Alitas de pollo bañadas", "description":"Salsas: BBQ, ranch, agridulce, picante o chipotle", "price": 260}
+    ],
+    "couldCoffe":[
+        {"name":"Café con caramelo", "description":"", "price": 60},
+        {"name":"Café con chocolate", "description":"", "price": 60},
+        {"name":"Café con vainilla", "description":"", "price": 60}
+    ],
+    "drinks":[
+        {"name":"Jugo natural", "description":"Preguntar por fruta de temporada", "price": 40},
+        {"name":"Gaseosa de vidrio", "description":"Coca-cola, fanta, sprite", "price": 20},
+        {"name":"Gaseosa de lata", "description":"Coca-cola, fanta, sprite", "price": 30},
+        {"name":"Gaseosa 1/2 LT", "description":"Coca-cola, fanta, sprite", "price": 30},
+        {"name":"Gaseosa 355 ML", "description":"Coca-cola, fanta, sprite", "price": 20},
+        {"name":"Jugo del valle", "description":"Naranja y limón", "price": 30},
+        {"name":"Hi-C", "description":"Jugo y té frio", "price": 50}
+    ]
+}
