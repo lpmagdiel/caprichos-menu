@@ -26,11 +26,11 @@
     .container-menu-text{
         position: absolute;
         font-size: 3rem;
+        transform: rotate(-90deg);
+        top: 65px;
+        left: -130px;
     }
     .container-menu-text h1{
-        writing-mode: sideways-lr;
-        text-orientation: upright;
-        margin-left: -65px;
         font-family: "PTSerif";
         font-weight: bold;
         color: #FD5211;
